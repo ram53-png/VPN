@@ -1,0 +1,21 @@
+1. Visited protonvpn.com and created a free account
+2. Downloaded and installed ProtonVPN client for Windows
+3. Logged in using account credentials
+
+
+
+vpn_summary: 
+- VPN encrypts your internet traffic using protocols like OpenVPN or WireGuard
+- Masks your real IP and location
+- Prevents ISP tracking or public Wi-Fi snooping
+- Can bypass geo-restrictions
+
+## Benefits:
+- Secures data on public Wi-Fi
+- Hides browsing activity from ISPs
+- Allows access to restricted content
+
+## Limitations:
+- Free VPNs may have speed or data limits
+- VPN doesn’t make you completely anonymous
+- Some websites may block VPN IPs
